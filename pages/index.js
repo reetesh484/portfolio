@@ -125,7 +125,7 @@ export default function Home() {
           </div>
         </section>
 
-        <section className=" mt-10 h-[100vh] flex flex-col justify-center items-center">
+        <section className=" mt-10 min-h-[100vh] flex flex-col justify-center items-center">
           <div>
             <h3 className=" text-5xl py-1 text-center dark:text-teal-200">
               Skills
