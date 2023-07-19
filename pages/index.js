@@ -104,7 +104,7 @@ export default function Home() {
               <a
                 target="_blank"
                 rel="noreferrer"
-                href="https://github.com/reetesh818"
+                href="https://github.com/reetesh484"
               >
                 <AiFillGithub className="hover:text-teal-500 dark:hover:text-teal-400 " />
               </a>
