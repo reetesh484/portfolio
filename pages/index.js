@@ -67,7 +67,7 @@ export default function Home() {
               <li>
                 <a
                   className=" bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded"
-                  href="https://drive.google.com/file/d/1AzDsRlsrOGvDv07jsC3mAdi8O4Oc_B61/view?usp=drivesdk"
+                  href="https://drive.google.com/file/d/1pMi74zT3j9CuAZBbtsYpU7ZyHvpjfpB2/view?usp=sharing"
                   download="ReeteshTiwariResume"
                   target="_blank"
                   rel="noreferrer"
@@ -406,7 +406,7 @@ export default function Home() {
                       <a
                         target="_blank"
                         rel="noreferrer"
-                        href="https://github.com/reetesh818"
+                        href="https://github.com/reetesh484"
                       >
                         <AiFillGithub className="hover:text-teal-500 dark:hover:text-teal-400 " />
                       </a>
