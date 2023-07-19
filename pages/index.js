@@ -18,6 +18,8 @@ import web4 from "../public/creditcard.png";
 import web5 from "../public/hostingsite.png";
 import web6 from "../public/realestate.png";
 import web7 from "../public/gaming.png";
+import web8 from '../public/web10.png';
+import web9 from '../public/web11.png';
 
 import html from "../public/html5.svg";
 import js from "../public/java-script.svg";
@@ -231,6 +233,32 @@ export default function Home() {
           </div>
 
           <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
+          <div className="basis-1/3 project-animate flex-1  ">
+              <a
+                href="https://opju-job-portal.netlify.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <Image
+                  src={web8}
+                  alt="Job Portal App"
+                  className="rounded-lg object-cover w-full h-full"
+                />
+              </a>
+            </div>
+            <div className="basis-1/3 project-animate flex-1  ">
+              <a
+                href="https://glittering-basbousa-faba67.netlify.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <Image
+                  src={web9}
+                  alt="Social Media Project"
+                  className="rounded-lg object-cover w-full h-full"
+                />
+              </a>
+            </div>
             <div className="basis-1/3 project-animate flex-1  ">
               <a
                 href="https://beats-site.netlify.app"
