@@ -82,7 +82,7 @@ export default function Home() {
           <div className="flex flex-col gap-6">
             <div className=" text-center px-10">
               <h2 className=" text-5xl  text-teal-600 dark:text-teal-400 font-medium md:text-6xl">
-                Reetesh Tiwari{" "}
+                Reetesh Tiwari
               </h2>
               <h3 className=" text-2xl py-2 dark:text-gray-200">
                 Web Developer
